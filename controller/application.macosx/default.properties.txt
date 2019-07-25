@@ -1,4 +1,4 @@
-#   ***  Polargraph properties file   ***  
+#   ***  Polargraph properties file   ***
 #Sun Jul 17 11:38:23 EDT 2016
 controller.pixel.samplearea=10
 controller.pictureframe.position.y=233
@@ -13,7 +13,7 @@ controller.image.position.y=436
 controller.image.position.x=393
 machine.motors.accel=1000
 controller.image.height=237
-controller.machine.serialport=1
+controller.machine.serialport=11
 controller.window.height=825
 controller.maxSegmentLength=2
 machine.penlift.up=122
